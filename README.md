@@ -56,5 +56,5 @@ Defeating Korax activates the mechanism leading out of Lýpe.
 
 ## Author
 
-**Elena "Lena" Savinova**, Techniques d'intégration multimédia, Cégep de Matane
+**Elena Savinova**, Techniques d'intégration multimédia, Cégep de Matane, Session 5 (Autonme) 2026
 [je.savelena@gmail.com](mailto:je.savelena@gmail.com) | [LinkedIn](https://linkedin.com/in/elena-savinova-lena/)
